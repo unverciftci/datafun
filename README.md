@@ -1,6 +1,6 @@
 # datafun
 
-Generative Models as Distributions of Functions
+Generative Models as Distributions of Functions <br\>
 https://arxiv.org/abs/2102.04776
 
 Learning Signal-Agnostic Manifolds of Neural Fields
